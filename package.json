@@ -1,0 +1,21 @@
+{
+  "name": "coder-theme",
+  "displayName": "Coder Theme",
+  "description": "A theme for Developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "coder-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coder-theme-color-theme.json"
+      }
+    ]
+  }
+}
