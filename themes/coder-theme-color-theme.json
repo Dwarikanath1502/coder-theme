@@ -1,10 +1,39 @@
 {
 	"name": "coder-theme",
+	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#1D1D1D",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		
+
+		//tab
+		"tab.activeBackground": "#454545",
+		"tab.border": "#070707",
+		"tab.activeBorder": "#fff",
+		"tab.activeForeground": "#ccc",
+		"tab.hoverBorder": "#5d5fe2",
+		"tab.lastPinnedBorder": "#7FFFD4",
+				
+
+		//terminal
+		"terminal.background": "#111111",
+		"terminal.foreground": "#FFFFFF",
+		"terminalCursor.foreground": "#cdddeb36",
+		
+
+		//panel
+		"panel.background": "#000",
+		// "panel.border": "#ccc",
+		
+		//sidebar
+		"sideBar.background": "#242323",
+
+		//activitybar		
+			
+		
+		
 	},
 	"tokenColors": [
 		{
