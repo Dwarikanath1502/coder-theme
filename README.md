@@ -1,16 +1,10 @@
-# coder-theme README
 
-## Working with Markdown
+# coder-theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+I have created a custom Visual Studio Code (VS Code) theme that aims to improve the coding experience by making it more comfortable for developers' eyes. This theme introduces several key modifications to the default VS Code color scheme to reduce eye strain and enhance readability during long coding sessions.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+The theme employs a carefully chosen color palette that provides sufficient contrast without being overly bright or harsh. It utilizes soothing background tones and text colors that ensure a balanced visual environment. Code syntax highlighting is fine-tuned to make different elements stand out clearly, aiding in code comprehension.
 
-## For more information
+Additionally, the theme adjusts other interface elements, such as the editor's font, line spacing, and icons, to create an ergonomic coding environment. It prioritizes legibility and usability to minimize the potential for eye fatigue and distractions.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+By using this customized VS Code theme, developers can code for extended periods without experiencing undue strain on their eyes, ultimately boosting productivity and comfort.
