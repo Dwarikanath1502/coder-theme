@@ -3,6 +3,7 @@
   "displayName": "Coder Theme",
   "description": "A theme for Developers",
   "version": "0.0.1",
+  "publisher": "Dwarikanath",
   "engines": {
     "vscode": "^1.81.0"
   },

@@ -29,6 +29,7 @@
 		
 		//sidebar
 		"sideBar.background": "#242323",
+		
 
 		//activitybar		
 		"activityBar.activeBorder": "#3f4dcc"
